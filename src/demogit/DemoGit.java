@@ -7,7 +7,7 @@ package demogit;
 
 /**
  *
- * @author be791191
+ * @author Fatima-Ezzahra Allamou
  */
 public class DemoGit {
 
@@ -15,7 +15,7 @@ public class DemoGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-            System.out.println("allo le monde!");
+            System.out.println("Bonjour le monde!");
     }
     
 }
